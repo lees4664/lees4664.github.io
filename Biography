@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Song Lee Blog</title>
+</head>
+<body style="background-color:#e2cfaf;">
+</body>
+</html>
+
+<p style="font: bold 48px Helvetica;color:#6b4f43;text-align:center;">Song Lee <br> CSIT100_12SP25 February 4, 2024</p>
+
+<h1>Table of Content</h1>
+<ul>
+  <li>Biography</li>
+  <li>Hobbies & Interests</li>
+  <li>Useful Links</li>
+</ul>
+
+<hr>
+
+<h2>Biography</h2>>
+
+<p>I was born and raised in Seoul, South Korea for 17 years, and I immigrated to United States of America in 2019.
+  <br> Currently, I am studying Visual Communication Design at Montclair State University in New Jersey.</p>
+
+<h2>Hobbies & Interests</h2>>
+
+<p>I have quite a few of hobbies and interests. Here are some of the things I like:</p>
+
+<table align="center" border="1" width="800">
+  <tr>
+    <td>Interests</td>
+    <td>Hobby</td>
+  </tr>
+  <tr>
+    <td>Abstract art</td>
+    <td>Playing the piano</td>
+  </tr>
+  <tr>
+    <td>Swiss graphic design</td>
+    <td>Baking</td>
+    <tr>
+      <td>Bossa-Nova and Tango</td>
+      <td>Painting</td>
+    </tr>
+    <tr>
+      <td>Cats</td>
+      <td>Web surfing and reading Wikipidia</td>
+    </tr>
+    <tr>
+      <td>Stationary</td>
+      <td>Taking pictures</td>
+    </tr>
+</table>
